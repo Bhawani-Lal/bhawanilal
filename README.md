@@ -19,7 +19,9 @@
 | 💹 Banking Analytics Dashboard | React, D3.js, REST API | 📅 Planned |
 
 ## 📊 GitHub Stats
-![Bhawani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhawanilal&show_icons=true&theme=dark)
+![Bhawani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhawanilal&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhawanilal&layout=compact&theme=dark&hide_border=true)
 
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhawani-lal)
